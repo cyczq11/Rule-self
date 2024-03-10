@@ -1,0 +1,30 @@
+### 2021-02-21 23:50
+### >>> HBO
+
+payload:
+## >> HBO NOW
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hboasia.com 
+  - DOMAIN-SUFFIX,hbogo.com
+  - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,xecute-api.ap-southeast-1.amazonaws.com   
+## >> HBO GO HKG
+  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com 
+  - DOMAIN,api-hboprod.onwardsmg.com
+  - DOMAIN,bcbolthboa-a.akamaihd.net
+  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net  
+  - DOMAIN,dai3fd1oh325y.cloudfront.net
+  - DOMAIN,hboasia1-i.akamaihd.net
+  - DOMAIN,hboasia2-i.akamaihd.net
+  - DOMAIN,hboasia3-i.akamaihd.net
+  - DOMAIN,hboasia4-i.akamaihd.net
+  - DOMAIN,hboasia5-i.akamaihd.net
+  - DOMAIN,hbolb.onwardsmg.com
+  - DOMAIN,hboprod.onwardsmg.com
+  - DOMAIN,players.brightcove.net
+  - DOMAIN,s3-ap-southeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,hbogoasia.com
+  - DOMAIN-SUFFIX,hbogoasia.hk 
+

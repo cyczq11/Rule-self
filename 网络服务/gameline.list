@@ -1,0 +1,28 @@
+### 2021-02-22 00:15
+### >>> 游戏平台
+
+payload:
+## >> Steam
+  - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,humblebundle.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
+## >> xbox
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xboxlive.com
+## >> Sony
+  - DOMAIN-SUFFIX,playstation.com
+  - DOMAIN-SUFFIX,playstation.net
+  - DOMAIN-SUFFIX,playstationnetwork.com
+  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+## >> Blizzard
+  - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,battlenet.com  
+  - DOMAIN,blzddist1-a.akamaihd.net
+  - DOMAIN,cdp.cloud.unity3d.com
+## >> Gameloft
+  - DOMAIN-SUFFIX,gameloft.com
+## >> BattlEye  
+  - DOMAIN-SUFFIX,battleye.com

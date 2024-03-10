@@ -1,2 +1,2 @@
-# Rule-self
-规则和openclash的yaml文件
+# rule-provider
+the rule providers for Clash

@@ -1,0 +1,5 @@
+### 2022-07-13 08:44
+### >>> API 服务类 推荐选择账号所在区
+##payload: 
+## >> 一些 com.apple.appstored* 会连接的 API（优先级高）
+  - DOMAIN-KEYWORD,capitalone

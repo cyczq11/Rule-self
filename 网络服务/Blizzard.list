@@ -1,0 +1,11 @@
+### 2021-02-22 00:15
+### >>> Blizzard游戏平台
+
+payload:
+
+## >> Blizzard
+  - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,battlenet.com  
+  - DOMAIN,blzddist1-a.akamaihd.net
+  - DOMAIN,cdp.cloud.unity3d.com

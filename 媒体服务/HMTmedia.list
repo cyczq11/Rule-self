@@ -1,0 +1,44 @@
+### 2021-02-21 22:55
+### >>> 港澳台流媒体服务
+
+payload:
+## >> bahamut
+  - DOMAIN-SUFFIX,bahamut.com
+  - DOMAIN-SUFFIX,bahamut.com.tw  
+  - DOMAIN-SUFFIX,gamer.com.tw  
+  - DOMAIN-SUFFIX,gamer.com
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,ipify.org  
+  - DOMAIN,gamer-cds.cdn.hinet.net
+  - DOMAIN,gamer2-cds.cdn.hinet.net 
+  - IP-CIDR,104.16.182.0/24,no-resolve
+  - IP-CIDR,104.16.181.0/24,no-resolve  
+  - IP-CIDR,54.230.85.0/24,no-resolve  
+## >> hwtv
+  - DOMAIN-SUFFIX,5itv.tv
+  - DOMAIN-SUFFIX,ocnttv.com
+## >> myTV SUPER
+  - DOMAIN-KEYWORD,mytv
+  - DOMAIN-KEYWORD,nowtv100
+  - DOMAIN-KEYWORD,rthklive
+  - DOMAIN-SUFFIX,mytvsuper.com  
+## >> twhao
+  - DOMAIN-SUFFIX,skyking.com.tw
+  - DOMAIN,hamifans.emome.net
+## >> Twitch
+  - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,twitchcdn.net
+  - DOMAIN-SUFFIX,ttvnw.net
+  - DOMAIN-SUFFIX,jtvnw.net  
+## >> encoreTVB
+  - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-SUFFIX,gov.hk
+  - DOMAIN-SUFFIX,encoretvb.com
+  - DOMAIN-SUFFIX,content.jwplatform.com
+  - DOMAIN-SUFFIX,videos-f.jwpsrv.com
+  - DOMAIN,bcbolt446c5271-a.akamaihd.net
+  - DOMAIN,content.jwplatform.com
+  - DOMAIN,edge.api.brightcove.com
+  - DOMAIN,videos-f.jwpsrv.com  
+  - DOMAIN,uapisfm.tvbanywhere.com.sg
+  - DOMAIN,tvb-inews.servicebus.windows.net
