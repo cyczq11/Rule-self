@@ -1254,7 +1254,6 @@ proxy-groups:
 #  - RULE-SET,openai, 💦ChatGPT
 #  - RULE-SET,MYself, 💗个人添加💗
 rule-providers: 
-
     lancidr:
         type: http
         behavior: ipcidr
@@ -1309,54 +1308,61 @@ rule-providers:
         interval: 86400   
         path: ./ruleset/PUBG-Asia%26-Southeast-Asia.yaml        
         url: "https://raw.githubusercontent.com/FQrabbit/SSTap-Rule/master/rules/PUBG-Asia%26-Southeast-Asia.rules"  
+##个人库
     Youtube:
         type: http
         behavior: classical
         interval: 86400   
         path: ./ruleset/Youtube.yaml        
-        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1/YouTube.list?token=GHSAT0AAAAAACPKU5DANSFXNOGRDAT7G6H4ZPOAOPQ"    
+        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/Media/YouTube.list?token=ATT5MPUMHGDNZULGMOPX6D3F5YIOA"    
+##个人库  
     Amazon:
         type: http
         behavior: classical
         interval: 86400   
         path: ./ruleset/Amazon.yaml        
-        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1/Amazon.list?token=GHSAT0AAAAAACPKU5DBO7DCN75JCRK2WKVYZPOAO4Q"   
+        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/Media/Amazon.list?token=ATT5MPTPWCS2272JBMW6F4TF5YHOC"   
+## ACL4SSR库
     AmazonIP:
         type: http
         behavior: ipcidr
         interval: 86400   
         path: ./ruleset/AmazonIP.yaml        
         url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/AmazonIp.yaml"
+##个人库
     Disney:
         type: http
         behavior: classical
         interval: 86400   
         path: ./ruleset/Disney.yaml        
-        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1/Disney.list?token=GHSAT0AAAAAACPKU5DB6ORN6XFYCGMHLTVGZPOAPRQ"   
+        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/Media/Disney.list?token=GHSAT0AAAAAACPKU5DB6ORN6XFYCGMHLTVGZPOAPRQ"   
+##个人库
     AI:
         type: http
         behavior: classical
         interval: 86400   
         path: ./ruleset/AI.yaml        
-        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1/chatgpt-openai-Copilot.list?token=GHSAT0AAAAAACPKU5DA47WCHVZDVLXFO6D2ZPOAP7A"   
+        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/Netservice/chatgpt-openai-Copilot.list?token=GHSAT0AAAAAACPKU5DBZKEWYSM3WIXFDQGQZPOCI4A" 
+          ## https://v2rayse.com/github-file/转换的 https://raw.githubusercontent.com/cyczq11/Rule-self/main/Netservice/chatgpt-openai-Copilot.list?token=ATT5MPWJ6WU3QV6K7RUCKK3F5YJEM
+##个人库
     Netflix:
         type: http
         behavior: classical
         interval: 86400   
         path: ./ruleset/Netflix.yaml        
-        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1/Netflix.list?token=GHSAT0AAAAAACPKU5DAAGGPKGFRDRDUJY5EZPOAQPQ"   
+        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/Media/Netflix.list?token=GHSAT0AAAAAACPKU5DAAGGPKGFRDRDUJY5EZPOAQPQ"   
     Steam:
         type: http
         behavior: classical
         interval: 86400   
         path: ./ruleset/Steam.yaml        
-        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1/Steam.list?token=GHSAT0AAAAAACPKU5DBJSCLLPTSNSRBVNG6ZPOARKQ"    
+        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/Gamerule/Steam.list?token=GHSAT0AAAAAACPKU5DBKTJBEM34ADZPEFREZPOCMAA"    
     Microsoft:
         type: http
         behavior: classical
         interval: 86400   
         path: ./ruleset/Microsoft.yaml        
-        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1/Microsoft.list?token=GHSAT0AAAAAACPKU5DALACYASCXIYH7ZHOYZPOARUA"    
+        url: "https://raw.githubusercontent.com/cyczq11/Rule-self/main/Netservice/Microsoft.list?token=GHSAT0AAAAAACPKU5DA2CKSIJO5C43VOJJ6ZPOCMOQ"    
 
         
 rules:
