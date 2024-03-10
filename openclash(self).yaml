@@ -1418,6 +1418,7 @@ rules:
   - DOMAIN-SUFFIX,gitlab.io,💗个人添加💗
   - DOMAIN-KEYWORD,gitlab,💗个人添加💗
   - DOMAIN-KEYWORD,github,💗个人添加💗
+  - DOMAIN-KEYWORD,raw.githubusercontent.com,💗个人添加💗
   - DOMAIN-SUFFIX,github.io,💗个人添加💗
   - DOMAIN-SUFFIX,githubusercontent.com,💗个人添加💗
   - DOMAIN-SUFFIX,github.com,💗个人添加💗
