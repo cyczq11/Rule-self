@@ -2,6 +2,7 @@
 ### >>> 微软服务
 
 payload:  
+  - DOMAIN-SUFFIX,api.onedrive.com
   - DOMAIN-SUFFIX,aka.ms 
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,nsatc.net  

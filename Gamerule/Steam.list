@@ -2,6 +2,11 @@
 ### >>> Steam游戏平台
 
 payload:
+
+##绝地求生
+  - DOMAIN-SUFFIX,playbattlegrounds.com.cn
+  - DOMAIN-SUFFIX,playbattlegrounds.com
+  - DOMAIN-SUFFIX,pubg.com
 ##索尼
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
